@@ -111,7 +111,6 @@ class Interface:
     """
     _raw_obj = {}
     _wifi_ctrl = {}
-    _logger = None
 
     def __init__(self, raw_obj):
 
