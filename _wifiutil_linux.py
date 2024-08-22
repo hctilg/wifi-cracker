@@ -4,7 +4,7 @@
 
 import socket
 import stat
-from .cracker import *
+from cracker import *
 
 CTRL_IFACE_DIR = '/var/run/wpa_supplicant'
 CTRL_IFACE_RETRY = 3
